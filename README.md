@@ -1,4 +1,4 @@
-# GradientTextViewWithCustomAngle
+# GradientStrokeTextView
 ![alt text](https://github.com/Dat-PV-134/GradientStrokeTextView/blob/main/preview.jpg)
 
 ## Implementation:
